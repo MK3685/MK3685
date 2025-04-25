@@ -53,9 +53,7 @@ Welcome to my GitHub! I'm passionate about turning data into actionable insights
 
 ## 📫 Connect with Me  
 📧 Email: [korirmateo@gmail.com]
-🐦 Twitter:
-💼 LinkedIn: 
-🌐 Portfolio: 
+
 
 ⭐ **If you find my work useful, consider giving it a star!** ⭐ 
 

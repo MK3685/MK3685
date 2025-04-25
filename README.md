@@ -52,10 +52,10 @@ Welcome to my GitHub! I'm passionate about turning data into actionable insights
 ---
 
 ## 📫 Connect with Me  
-📧 Email: [your-email@example.com](korirmateo@gmail.com)  
-🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-💼 LinkedIn: [your-profile](https://linkedin.com/in/yourprofile)  
-🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+📧 Email: [korirmateo@gmail.com]
+🐦 Twitter:
+💼 LinkedIn: 
+🌐 Portfolio: 
 
 ⭐ **If you find my work useful, consider giving it a star!** ⭐ 
 

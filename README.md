@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm passionate about turning data into actionable insights
 
 ## 📂 My Projects
 
-🔹 [**Credit Scoring Model**](https://github.com/MK3685/loan-approval) – Built a **Gradient Boosting** model for loan risk assessment  
+🔹 [**Credit Scoring Model**](https://github.com/MK3685/loan-approval) – Built a **Random Forest Classifier** model for loan risk assessment  
 🔹 [**ML App – Salary Prediction**](https://github.com/MK3685/ml-app-salaryprediction) – Developed a **regression app** for salary prediction  
 🔹 [**Movie Review Sentiment Analysis**](https://github.com/MK3685/movie-review-sentiment) – Used **NLP techniques** for sentiment classification  
 🔹 [**Face Clustering with PCA & K-Means**](https://github.com/MK3685/face-clustering-pca-kmeans) – Performed **unsupervised face grouping** using PCA and K-Means  

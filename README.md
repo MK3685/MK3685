@@ -16,12 +16,14 @@ Welcome to my GitHub! I'm passionate about turning data into actionable insights
 
 ---
 
-## 📂 My Projects  
+## 📂 My Projects
 
-🔹 [**Credit Scoring Model**](#) - Built a **Gradient Boosting** model for loan risk assessment  
-🔹 [**Fraud Detection System**](#) - Used **Random Forest & XGBoost** for real-time fraud detection  
-🔹 [**Satellite Image Classification**](#) - Applied **CNNs & Self-Supervised Learning** for geospatial analysis  
-🔹 [**Neural Radiance Fields (NeRF) for 3D Reconstruction**](#) - Researched and implemented **NeRF-based 3D scene generation**  
+🔹 [**Loan Approval – Credit Scoring Model**](https://github.com/MK3685/loan-approval)  
+🔹 [**Salary Prediction – ML App**](https://github.com/MK3685/ml-app-salaryprediction)  
+🔹 [**Movie Review Sentiment Analysis**](https://github.com/MK3685/movie-review-sentiment)  
+🔹 [**Face Clustering with PCA & KMeans**](https://github.com/MK3685/face-clustering-pca-kmeans)  
+🔹 [**Income Trends – Shiny App**](https://github.com/MK3685/Shiny-apps-Income-Trends)
+
 
 ---
 
